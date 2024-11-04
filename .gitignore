@@ -1,0 +1,5 @@
+# Ignorer le fichier de configuration de l'environnement
+.env
+
+# Ignorer le fichier de base de données SQLite
+dbsqlite3
